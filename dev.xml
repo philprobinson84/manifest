@@ -4,7 +4,7 @@
   <default sync-j="4" revision="master"/>
 
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
-  <remote fetch="https://github.com/FullMetalUpdate/" name="fullmetalupdate"/>
+  <remote fetch="https://github.com/philprobinson84/" name="fullmetalupdate"/>
   <remote fetch="https://github.com/Witekio/" name="witekio"/>
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
